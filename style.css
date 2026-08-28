@@ -17,6 +17,8 @@ main {
 max-width: 600px;
 margin: auto;
 line-height: 1.6;
+border-radius: 25px;
+background-color: #1a1a1a;
 }
 footer {
 font-style: italic;
