@@ -20,6 +20,13 @@ line-height: 1.6;
 border-radius: 10px;
 background-color: #f7efaf;
 }
+main {
+max-width: 800px;
+margin: auto;
+line-height: 1.6;
+border-radius: 10px;
+background-color: #0c0c0c;
+}
 footer {
 font-style: italic;
 border-top: 3px solid #000;
