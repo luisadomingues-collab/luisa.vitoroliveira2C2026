@@ -16,12 +16,12 @@ padding: 5px;
 main {
 max-width: 600px;
 margin: auto;
-line-height: 1.6;
+line-height: 2.1;
 }
 footer {
 font-style: italic;
 border-top: 3px solid #000;
-margin-top: 50px;
+margin-top: 30px;
 border-radius: 25px;
 background-color:rgb(218, 114, 131);
 }
