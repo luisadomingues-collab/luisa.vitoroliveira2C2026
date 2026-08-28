@@ -20,10 +20,10 @@ line-height: 1.6;
 }
 footer {
 font-style: italic;
-border-top: 1px solid #000;
+border-top: 5px solid #000;
 margin-top: 30px;
 border-radius: 25px;
-color:aquamarine;
+background-color:rgb(218, 114, 131);
 }
 img {       
 width: 600px;
